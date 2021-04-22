@@ -20,6 +20,7 @@ public class Book {
     private Publisher publisher;
 
     public Book() {
+
     }
 
     public Book(String title, String isbn) {
